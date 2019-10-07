@@ -1,0 +1,16 @@
+<?xml-stylesheet type="text/xsl" href="https://outsidecoders.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://outsidecoders.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://outsidecoders.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://outsidecoders.github.io/tags/</loc>
+  </url>
+  
+</urlset>
