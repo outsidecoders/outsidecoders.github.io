@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://outsidecoders.github.io/sitemap.xml
